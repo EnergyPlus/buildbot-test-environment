@@ -1,0 +1,8 @@
+
+# Ignore the submodule scripts
+scripts
+
+# Ignore Vagrant files. They are generated throught the script
+.vagrant
+Vagrantfile
+servers.yml
